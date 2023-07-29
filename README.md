@@ -29,7 +29,7 @@ The project fetches GDP data from a JSON file using an XMLHttpRequest. It then u
 
 ## Project Preview
 
-![GDP Bar Chart Preview](https://i.imgur.com/fq4OjFR.pn))
+![GDP Bar Chart Preview](https://i.imgur.com/fq4OjFR.pn)
 
 ## Contributing
 
