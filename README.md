@@ -1,6 +1,6 @@
 # Awesome GDP Bar Chart Project STEAM ACADEMY PROYECT
 
-![GDP Bar Chart](https://imgur.com/WI09rSO)
+![GDP Bar Chart]((https://i.imgur.com/fq4OjFR.png))
 
 Welcome to the Awesome GDP Bar Chart project! This project is a fun and interactive way to visualize the Gross Domestic Product (GDP) data of the USA over a period of time. Using D3.js, we create a beautiful bar chart that displays the economic growth of the country in a visually appealing manner.
 
@@ -29,7 +29,7 @@ The project fetches GDP data from a JSON file using an XMLHttpRequest. It then u
 
 ## Project Preview
 
-![GDP Bar Chart Preview]((https://imgur.com/fq4OjFR))
+![GDP Bar Chart Preview]((https://i.imgur.com/fq4OjFR.png))
 
 ## Contributing
 
