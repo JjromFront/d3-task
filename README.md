@@ -10,8 +10,7 @@ The project fetches GDP data from a JSON file using an XMLHttpRequest. It then u
 
 ## Features
 
-- **Interactive Bars**: Hover over each bar to view the specific date and GDP value in a tooltip.
-- **Responsive Design**: The chart scales gracefully to fit various screen sizes and devices.
+- **Interactive Bars**: Hover over each bar to view the specific date in the tooltip!
 - **Colorful and Appealing**: The bar chart is designed to be visually attractive, making data exploration enjoyable.
 
 ## How to Use
